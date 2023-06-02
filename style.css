@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: #1f508f;
+    background-color: white;
+    font-size: 18px;
+    margin-right: 15px;
+}
+li{
+    list-style-type: none;
+
+}
+#book_flight{
+    background-color: orange;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 6px;
+    color: white;
+}
+.navbar{
+    display: inline-block;
+}
