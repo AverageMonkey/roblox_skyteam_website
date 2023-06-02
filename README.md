@@ -1,1 +1,2 @@
 # roblox_skyteam_website
+This repository contains all the coding needed for the Roblox SkyTeam Website. If you have any questions, would like to report a bug, or would like to join Roblox SkyTeam, You can contact AverageMonkey on discord. His tag is AverageMonkey#6104
